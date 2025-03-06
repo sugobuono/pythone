@@ -1,4 +1,4 @@
-# Versione completamente autonoma, ho utilizzata chatgpt per trovare l'esistenza della funzione arange, visto che mi servivano step decimali.
+
 from math import sqrt, pi
 import numpy
 def integrale(n):
